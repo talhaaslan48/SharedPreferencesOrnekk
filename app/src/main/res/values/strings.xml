@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Odev4</string>
+    <string name="ad">İsminiz:</string>
+    <string name="konum">Konumunuz:</string>
+</resources>
